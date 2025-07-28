@@ -7,3 +7,6 @@
 [file_servers]
 192.168.18.18
 
+[workstations]
+192.168.18.4
+
